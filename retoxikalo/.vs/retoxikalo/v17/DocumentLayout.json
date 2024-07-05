@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progi\\retoxikalo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|d:\\progi\\retoxikalo\\retoxikalo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|solutionrelative:retoxikalo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|d:\\progi\\retoxikalo\\retoxikalo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|solutionrelative:retoxikalo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|d:\\progi\\retoxikalo\\retoxikalo\\sugoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|solutionrelative:retoxikalo\\sugoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|d:\\progi\\retoxikalo\\retoxikalo\\galeriaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|solutionrelative:retoxikalo\\galeriaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|d:\\progi\\retoxikalo\\retoxikalo\\szamlaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|solutionrelative:retoxikalo\\szamlaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|d:\\progi\\retoxikalo\\retoxikalo\\itallapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|solutionrelative:retoxikalo\\itallapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|d:\\progi\\retoxikalo\\retoxikalo\\galeriaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|solutionrelative:retoxikalo\\galeriaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|d:\\progi\\retoxikalo\\retoxikalo\\sugoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|solutionrelative:retoxikalo\\sugoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|d:\\progi\\retoxikalo\\retoxikalo\\szamlaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|solutionrelative:retoxikalo\\szamlaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|d:\\progi\\retoxikalo\\retoxikalo\\itallapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A3B813-1685-4311-BB43-12DB9C99A620}|retoxikalo\\retoxikalo.csproj|solutionrelative:retoxikalo\\itallapform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SzamlaForm.cs",
+              "DocumentMoniker": "D:\\progi\\retoxikalo\\retoxikalo\\SzamlaForm.cs",
+              "RelativeDocumentMoniker": "retoxikalo\\SzamlaForm.cs",
+              "ToolTip": "D:\\progi\\retoxikalo\\retoxikalo\\SzamlaForm.cs",
+              "RelativeToolTip": "retoxikalo\\SzamlaForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:57:35.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SugoForm.cs [Design]",
+              "DocumentMoniker": "D:\\progi\\retoxikalo\\retoxikalo\\SugoForm.cs",
+              "RelativeDocumentMoniker": "retoxikalo\\SugoForm.cs",
+              "ToolTip": "D:\\progi\\retoxikalo\\retoxikalo\\SugoForm.cs [Design]",
+              "RelativeToolTip": "retoxikalo\\SugoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:40:31.24Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GaleriaForm.cs",
+              "DocumentMoniker": "D:\\progi\\retoxikalo\\retoxikalo\\GaleriaForm.cs",
+              "RelativeDocumentMoniker": "retoxikalo\\GaleriaForm.cs",
+              "ToolTip": "D:\\progi\\retoxikalo\\retoxikalo\\GaleriaForm.cs",
+              "RelativeToolTip": "retoxikalo\\GaleriaForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:05:40.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItalLapForm.cs",
+              "DocumentMoniker": "D:\\progi\\retoxikalo\\retoxikalo\\ItalLapForm.cs",
+              "RelativeDocumentMoniker": "retoxikalo\\ItalLapForm.cs",
+              "ToolTip": "D:\\progi\\retoxikalo\\retoxikalo\\ItalLapForm.cs",
+              "RelativeToolTip": "retoxikalo\\ItalLapForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T08:30:12.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\progi\\retoxikalo\\retoxikalo\\Form1.cs",
+              "RelativeDocumentMoniker": "retoxikalo\\Form1.cs",
+              "ToolTip": "D:\\progi\\retoxikalo\\retoxikalo\\Form1.cs",
+              "RelativeToolTip": "retoxikalo\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:46:56.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GaleriaForm.cs [Design]",
+              "DocumentMoniker": "D:\\progi\\retoxikalo\\retoxikalo\\GaleriaForm.cs",
+              "RelativeDocumentMoniker": "retoxikalo\\GaleriaForm.cs",
+              "ToolTip": "D:\\progi\\retoxikalo\\retoxikalo\\GaleriaForm.cs [Design]",
+              "RelativeToolTip": "retoxikalo\\GaleriaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:40:16.139Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SzamlaForm.cs [Design]",
+              "DocumentMoniker": "D:\\progi\\retoxikalo\\retoxikalo\\SzamlaForm.cs",
+              "RelativeDocumentMoniker": "retoxikalo\\SzamlaForm.cs",
+              "ToolTip": "D:\\progi\\retoxikalo\\retoxikalo\\SzamlaForm.cs [Design]",
+              "RelativeToolTip": "retoxikalo\\SzamlaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:40:01.234Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItalLapForm.cs [Design]",
+              "DocumentMoniker": "D:\\progi\\retoxikalo\\retoxikalo\\ItalLapForm.cs",
+              "RelativeDocumentMoniker": "retoxikalo\\ItalLapForm.cs",
+              "ToolTip": "D:\\progi\\retoxikalo\\retoxikalo\\ItalLapForm.cs [Design]",
+              "RelativeToolTip": "retoxikalo\\ItalLapForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:39:45.59Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\progi\\retoxikalo\\retoxikalo\\Form1.cs",
+              "RelativeDocumentMoniker": "retoxikalo\\Form1.cs",
+              "ToolTip": "D:\\progi\\retoxikalo\\retoxikalo\\Form1.cs [Design]",
+              "RelativeToolTip": "retoxikalo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:00:46.652Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SugoForm.cs",
+              "DocumentMoniker": "D:\\progi\\retoxikalo\\retoxikalo\\SugoForm.cs",
+              "RelativeDocumentMoniker": "retoxikalo\\SugoForm.cs",
+              "ToolTip": "D:\\progi\\retoxikalo\\retoxikalo\\SugoForm.cs",
+              "RelativeToolTip": "retoxikalo\\SugoForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T09:15:58.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

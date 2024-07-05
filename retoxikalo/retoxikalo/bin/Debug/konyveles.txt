@@ -1,0 +1,8 @@
+Kupica kisüsti szilvapálinka;32;6400
+Kupica kisüsti barackpálinka;1;250
+Kupica vegyes pálinka;0;0
+Korsó sör;0;0
+Pohár sör;0;0
+Pohár fröccs;0;0
+Kávé;0;0
+Ásványvíz;0;0
